@@ -25,7 +25,7 @@ Data Scientist with a demonstrated history in data analysis and problem-solving 
 
 • Data Visualization: Matplotlib, Seaborn, Tableau, PowerBI, Excel, Plotly
 
-• Version Control: GitHub, Mercurial
+• Version Control: Git, Mercurial
 
 • Tools: APIs, MS Office, Jupyter Notebook, Visual Studio Code
 
