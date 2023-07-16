@@ -33,5 +33,5 @@ Data Scientist with a demonstrated history in data analysis and problem-solving 
 
 ### LinkedIn: https://www.linkedin.com/in/anita-durg/
 
-### Resume: [Anita Durg.pdf](https://github.com/anidurg/anidurg/files/11944483/Anita.Durg.BDR.pdf)
+### Resume: [Anita Durg.pdf](https://github.com/anidurg/anidurg/files/12065352/Anita.Durg.pdf)
 
